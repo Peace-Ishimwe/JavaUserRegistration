@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/peace/OneDrive/Desktop/Learn/Java/Java-User-Registration/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/peace/OneDrive/Desktop/Learn/Java/Java-User-Registration/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/se/weld-se-core/4.0.3.Final/weld-se-core-4.0.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-se-core-4.0.3.Final.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/environment/weld-environment-common/4.0.3.Final/weld-environment-common-4.0.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-environment-common-4.0.3.Final.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/weld-core-impl/4.0.3.Final/weld-core-impl-4.0.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-core-impl-4.0.3.Final.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/weld-api/4.0.SP1/weld-api-4.0.SP1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-api-4.0.SP1.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/weld-spi/4.0.SP1/weld-spi-4.0.SP1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-spi-4.0.SP1.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.0.0/jakarta.annotation-api-2.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.annotation-api-2.0.0.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/jakarta/el/jakarta.el-api/4.0.0/jakarta.el-api-4.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-4.0.0.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.0.0/jakarta.interceptor-api-2.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.interceptor-api-2.0.0.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jboss-logging-3.4.3.Final.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/weld/probe/weld-probe-core/4.0.3.Final/weld-probe-core-4.0.3.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/weld-probe-core-4.0.3.Final.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/3.0.0/jakarta.enterprise.cdi-api-3.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.enterprise.cdi-api-3.0.0.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.0/jakarta.inject-api-2.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.inject-api-2.0.0.jar"/>
+    <PostResources base="C:/Users/peace/.m2/repository/org/jboss/classfilewriter/jboss-classfilewriter/1.2.5.Final/jboss-classfilewriter-1.2.5.Final.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jboss-classfilewriter-1.2.5.Final.jar"/>
+  </Resources>
+</Context>
